@@ -46,5 +46,5 @@ The **Insurance Charges Predictor** is a web application that predicts insurance
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/insurance-charges-predictor.git
-cd insurance-charges-predictor
+git clone git@github.com:AhmadMughal-DS/Insurance-Charges-predication.git
+
