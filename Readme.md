@@ -47,6 +47,7 @@ The **Insurance Charges Predictor** is a web application that predicts insurance
 
 ```bash
 git clone git@github.com:AhmadMughal-DS/Insurance-Charges-predication.git
+```
 
-- **pip install requirements.txt**
-- **uvicorn main:app --reload **
+- **pip install -r requirements.txt**
+- **uvicorn main:app --reload**
